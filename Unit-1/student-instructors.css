@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+  background-color: blue;
+}
+
+.student table {
+  align: left;
+  float: left;
+  margin: 50px 50px 50px 30px;
+  padding-bottom: 40px;
+}
+
+.instructor table {
+  align: right;
+  float: right;
+  margin: 50px 30px 50px 30px;
+  padding-bottom: 20px;
+}
+table {
+  border: solid 1px;
+  background-color: white;
+  padding: 50px;
+}
+td {
+  background-color: white;
+}
+h4 {
+  color: white;
+}
+button {
+  background-color: white;
+  margin-left: 320px;
+}

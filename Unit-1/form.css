@@ -1,0 +1,17 @@
+form p {
+  color: purple;
+  display: inline;
+}
+h3 {
+  color: orange;
+}
+form {
+  margin-left: 30px;
+}
+.notphone {
+  margin-left: 2px;
+}
+button {
+  background-color: orange;
+  margin-top: 20px;
+}
